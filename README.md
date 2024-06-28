@@ -1,1 +1,2 @@
-<h3 align="left">💫 About Me:<br>🔭 I’m currently working on SLC Binus University</h3>
+![](https://raw.githubusercontent.com/AdrianYuu/github-stats/master/generated/overview.svg#gh-dark-mode-onl
+![](https://raw.githubusercontent.com/AdrianYuu/github-stats/master/generated/languages.svg#gh-dark-mode-only)
