@@ -1,4 +1,4 @@
-<h1 align="left">🌎 Social Media:</h1>
+<h2 align="left">🌎 Social Media:</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h1 align="left">🖥️ Programming Languages:</h1>
+<h2 align="left">🖥️ Programming Languages:</h2>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<h1 align="left">🛠️ Tools & Frameworks:</h1>
+<h2 align="left">🛠️ Tools & Frameworks:</h2>
 
 ###
 
@@ -95,7 +95,7 @@
 
 ### 
 
-<h1 align="left">📈 Statistics:</h1>
+<h2 align="left">📈 Statistics:</h2>
 
 ###
 
